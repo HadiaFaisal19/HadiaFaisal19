@@ -10,8 +10,8 @@
 - If you have an innovative idea or project, feel free to reach out!
 
 ## Contact
-- 📫 How to reach me: [Your Email Address](hadiafaisal1003@gmail.com)
-- 📱 Connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hadiafaisal)
+- 📫 How to reach me: [Email Address](hadiafaisal1003@gmail.com)
+- 📱 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hadiafaisal)
 
 Let's build something amazing together!
 

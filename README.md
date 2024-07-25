@@ -1,4 +1,4 @@
-# Hi there 👋, I'm @HadiaFaisal19
+# Hi there 👋, I'm Hadia Faisal
 
 ## About Me
 - 👀 I’m passionate about web design and development.
